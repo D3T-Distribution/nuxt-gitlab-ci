@@ -1,0 +1,3 @@
+FROM node:14.5
+
+EXPOSE 3000
